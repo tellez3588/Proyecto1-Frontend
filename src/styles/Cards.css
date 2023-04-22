@@ -1,0 +1,21 @@
+
+.cards{
+    width: 500px;
+    
+    padding: 20px;
+}
+.cards:hover{
+    box-shadow: 0 10px 10px 10px rgba(0,0,0,0.1);
+    cursor: pointer;
+}
+.image_box img{
+    width: 400px;
+    height: 200px;
+    border-radius: 5%;
+    background-color: blanchedalmond;
+}
+
+.details .titulo{
+    font-size: 25px;
+}
+

@@ -1,0 +1,12 @@
+.admin{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(9, 9, 231);
+    color: white;
+    font-size: 30px;
+    padding: 5px;
+}
+
+a{
+    color: white;
+}

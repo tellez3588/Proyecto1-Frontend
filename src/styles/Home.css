@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    margin-top: 5%;
+}
+.noticias{
+    width: 80%;
+    margin: auto;
+    margin-top: 5%;
+    margin-right: 3%;
+    margin-left: 3%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto;
+}
+
+.categorias{
+    width: 25%;    
+    margin-left: 65px;
+    font-size: 25px;    
+}
+
+.select{
+    
+    font-size: 25px;
+}
+

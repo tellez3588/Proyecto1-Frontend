@@ -1,0 +1,14 @@
+.Login {
+    background-color: blue;
+    color: white;
+}
+
+.logo {
+    display: flex;
+    text-align: center;
+    padding-left: 500px;
+}
+
+.registro {
+    text-align: center;
+}
